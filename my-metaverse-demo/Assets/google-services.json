@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331618235674",
+    "project_id": "mymetaverse-d5ed9",
+    "storage_bucket": "mymetaverse-d5ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331618235674:android:7a6db243b0d71eb64668a3",
+        "android_client_info": {
+          "package_name": "com.mymetaverse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsMWRc29Cxehg9w8mbMwP6XS5A1SDOQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
